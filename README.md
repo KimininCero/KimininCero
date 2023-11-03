@@ -34,7 +34,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: Terminar de cursar programação.
+  🦄 Objetivo: Terminar de cursar programação web.
 </p>
 
 <p align="left">
