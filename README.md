@@ -17,12 +17,6 @@
 
 </a>
 
-<a href="https://www.linkedin.com/in/kimberly-cristina-escobar-rodrigues-2635982b3/" target="_blank">
-
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  
-</a>
-
 <div align="center"> 
 
  <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimininCero&layout=compact&theme=dark&hide_border=true" /></a> 
