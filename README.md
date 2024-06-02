@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
 ### Encontre-me:
 
 <a href="https://www.instagram.com/KimininKim/">
@@ -18,11 +17,11 @@
 
 </a>
 
-<a href="https://www.linkedin.com/in/kimberly-cristina-escobar-rodrigues-2635982b3" target="_blank">
+<a href="https://www.linkedin.com/in/kimberly-cristina-escobar-rodrigues-2635982b3/" target="_blank">
 
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  
+</a>
 
 <div align="center"> 
 
