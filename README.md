@@ -8,6 +8,8 @@
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
 ### Encontre-me:
 
 <a href="https://www.instagram.com/KimininKim/">
@@ -15,6 +17,12 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 </a>
+
+<a href="https://www.linkedin.com/in/kimberly-cristina-escobar-rodrigues-2635982b3" target="_blank">
+
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="">
 
 <div align="center"> 
 
@@ -29,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi! Eu sou Kimberly.
+  Olá! Eu sou Kimberly.
 </p>
 
 <p align="left">
@@ -43,5 +51,14 @@
 <p align="left">
   💌 Navegue à vontade pelo perfil.
 </p>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?KimininCero&layout=compact&langs_count=7&theme=dracula"/>
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?KimininCero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
 
 </img>
